@@ -8,12 +8,12 @@
       "title": "Release 1.0.1",
       "entries": [
         {
-          "category": "balance",
-          "text": "Ajuste de prueba de delta en un item."
+          "category": "interfaz",
+          "text": "Rediseño de la pantalla de conectar (nuevo panel, botones y cuentas)."
         }
       ],
-      "download_bytes": 11273,
-      "files_changed": 1
+      "download_bytes": 2674146,
+      "files_changed": 5
     },
     {
       "version": "1.0.0",
