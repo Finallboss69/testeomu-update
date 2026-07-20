@@ -3,6 +3,27 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.4",
+      "date": "2026-07-20",
+      "title": "Release 1.0.4",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "El instalador ahora muestra \"COMPROBANDO ARCHIVOS\" mientras verifica lo ya descargado y \"DESCARGANDO RECURSOS\" solo cuando baja de verdad."
+        },
+        {
+          "category": "interfaz",
+          "text": "Número de versión del cliente visible en la pantalla de conexión y en el splash."
+        },
+        {
+          "category": "correccion",
+          "text": "Se agregó el permiso WAKE_LOCK: la descarga inicial ya no se corta si se apaga la pantalla."
+        }
+      ],
+      "download_bytes": 4712006,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.3",
       "date": "2026-07-20",
       "title": "Release 1.0.3",
