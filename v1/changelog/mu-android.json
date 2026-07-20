@@ -3,6 +3,19 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.2",
+      "date": "2026-07-20",
+      "title": "Release 1.0.2",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "Pantalla de conectar rediseñada (auto-update de APK)."
+        }
+      ],
+      "download_bytes": 5746239,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.1",
       "date": "2026-07-20",
       "title": "Release 1.0.1",
