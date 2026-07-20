@@ -3,6 +3,19 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.3",
+      "date": "2026-07-20",
+      "title": "Release 1.0.3",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Cliente con updater completo (recursos + APK) y arreglos de robustez."
+        }
+      ],
+      "download_bytes": 4709951,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.2",
       "date": "2026-07-20",
       "title": "Release 1.0.2",
