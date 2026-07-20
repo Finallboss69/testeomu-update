@@ -1,0 +1,32 @@
+{
+  "product": "mu",
+  "channel": "mu-android",
+  "releases": [
+    {
+      "version": "1.0.1",
+      "date": "2026-07-20",
+      "title": "Release 1.0.1",
+      "entries": [
+        {
+          "category": "balance",
+          "text": "Ajuste de prueba de delta en un item."
+        }
+      ],
+      "download_bytes": 11273,
+      "files_changed": 1
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-07-20",
+      "title": "Release 1.0.0",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Primera versión completa del cliente MU: mapas, NPCs, objetos y sonidos."
+        }
+      ],
+      "download_bytes": 0,
+      "files_changed": 0
+    }
+  ]
+}
