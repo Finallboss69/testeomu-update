@@ -3,6 +3,27 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.5",
+      "date": "2026-07-20",
+      "title": "Release 1.0.5",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Pantalla de **crear personaje** rediseñada (estilo REX): panel con las 7 clases, vista 3D del personaje, retrato, barras de stats y descripción de la clase."
+        },
+        {
+          "category": "interfaz",
+          "text": "Stats visibles: etiqueta (STR/AGI/VIT/ENE) y valor centrados en cada barra."
+        },
+        {
+          "category": "interfaz",
+          "text": "Descripción de clase multilínea centrada, ya no se sale del marco."
+        }
+      ],
+      "download_bytes": 7937113,
+      "files_changed": 8
+    },
+    {
       "version": "1.0.4",
       "date": "2026-07-20",
       "title": "Release 1.0.4",
