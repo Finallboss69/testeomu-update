@@ -3,94 +3,13 @@
   "channel": "mu-android",
   "releases": [
     {
-      "version": "1.0.5",
-      "date": "2026-07-20",
-      "title": "Release 1.0.5",
-      "entries": [
-        {
-          "category": "nuevo",
-          "text": "Pantalla de **crear personaje** rediseñada (estilo REX): panel con las 7 clases, vista 3D del personaje, retrato, barras de stats y descripción de la clase."
-        },
-        {
-          "category": "interfaz",
-          "text": "Stats visibles: etiqueta (STR/AGI/VIT/ENE) y valor centrados en cada barra."
-        },
-        {
-          "category": "interfaz",
-          "text": "Descripción de clase multilínea centrada, ya no se sale del marco."
-        }
-      ],
-      "download_bytes": 7937113,
-      "files_changed": 8
-    },
-    {
-      "version": "1.0.4",
-      "date": "2026-07-20",
-      "title": "Release 1.0.4",
-      "entries": [
-        {
-          "category": "interfaz",
-          "text": "El instalador ahora muestra \"COMPROBANDO ARCHIVOS\" mientras verifica lo ya descargado y \"DESCARGANDO RECURSOS\" solo cuando baja de verdad."
-        },
-        {
-          "category": "interfaz",
-          "text": "Número de versión del cliente visible en la pantalla de conexión y en el splash."
-        },
-        {
-          "category": "correccion",
-          "text": "Se agregó el permiso WAKE_LOCK: la descarga inicial ya no se corta si se apaga la pantalla."
-        }
-      ],
-      "download_bytes": 4712006,
-      "files_changed": 1
-    },
-    {
-      "version": "1.0.3",
-      "date": "2026-07-20",
-      "title": "Release 1.0.3",
-      "entries": [
-        {
-          "category": "nuevo",
-          "text": "Cliente con updater completo (recursos + APK) y arreglos de robustez."
-        }
-      ],
-      "download_bytes": 4709951,
-      "files_changed": 1
-    },
-    {
-      "version": "1.0.2",
-      "date": "2026-07-20",
-      "title": "Release 1.0.2",
-      "entries": [
-        {
-          "category": "interfaz",
-          "text": "Pantalla de conectar rediseñada (auto-update de APK)."
-        }
-      ],
-      "download_bytes": 5746239,
-      "files_changed": 1
-    },
-    {
-      "version": "1.0.1",
-      "date": "2026-07-20",
-      "title": "Release 1.0.1",
-      "entries": [
-        {
-          "category": "interfaz",
-          "text": "Rediseño de la pantalla de conectar (nuevo panel, botones y cuentas)."
-        }
-      ],
-      "download_bytes": 2674146,
-      "files_changed": 5
-    },
-    {
       "version": "1.0.0",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "title": "Release 1.0.0",
       "entries": [
         {
           "category": "nuevo",
-          "text": "Primera versión completa del cliente MU: mapas, NPCs, objetos y sonidos."
+          "text": "Publicado por patchstudio."
         }
       ],
       "download_bytes": 0,
