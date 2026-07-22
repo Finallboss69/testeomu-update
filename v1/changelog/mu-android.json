@@ -3,6 +3,19 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.4",
+      "date": "2026-07-22",
+      "title": "Release 1.0.4",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "Iconos de habilidades en alta resolución: el atlas principal pasa de 256x256 a 512x512, se ven mucho más nítidos en pantallas de celular."
+        }
+      ],
+      "download_bytes": 89088,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.3",
       "date": "2026-07-22",
       "title": "Release 1.0.3",
