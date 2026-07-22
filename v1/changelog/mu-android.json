@@ -3,6 +3,19 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.7",
+      "date": "2026-07-22",
+      "title": "Release 1.0.7",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "MU Helper: se renombraron opciones cuyo nombre no correspondia con lo que hacen. \"Long Distance Attack\" pasa a \"Roam While Hunting\" (no era alcance de ataque: decide si el bot se aleja del punto de inicio o queda anclado). \"Original Position\" pasa a \"Return To Start\". \"Combo\" pasa a \"Chain Both Skills\"."
+        }
+      ],
+      "download_bytes": 50493,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.6",
       "date": "2026-07-22",
       "title": "Release 1.0.6",
