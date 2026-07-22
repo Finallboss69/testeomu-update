@@ -3,6 +3,27 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.2",
+      "date": "2026-07-22",
+      "title": "Release 1.0.2",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Se arregla el crash al actualizar la app: ahora el juego se cierra solo al lanzar el instalador. Después de instalar, abrila con el botón Abrir."
+        },
+        {
+          "category": "correccion",
+          "text": "Formularios que aparecían cortados en pantalla: Gate Switch, Guard, Gateman, Doppelganger, progreso de quest, Gens Ranking, Lucky Coin y Gold Bowman."
+        },
+        {
+          "category": "interfaz",
+          "text": "Esos mismos formularios pasan al marco nuevo negro y rojo."
+        }
+      ],
+      "download_bytes": 4789511,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.1",
       "date": "2026-07-22",
       "title": "Release 1.0.1",
