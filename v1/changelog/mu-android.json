@@ -3,6 +3,23 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.5",
+      "date": "2026-07-22",
+      "title": "Release 1.0.5",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "Iconos de habilidades a 1024x1024: se ven nitidos en los botones redondos del celular, sin el borroneo que quedaba en la version anterior."
+        },
+        {
+          "category": "interfaz",
+          "text": "Corregido el encuadre de las celdas del atlas: ya no se filtra un pedazo del icono vecino en el borde del boton."
+        }
+      ],
+      "download_bytes": 328147,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.4",
       "date": "2026-07-22",
       "title": "Release 1.0.4",
