@@ -3,6 +3,23 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.6",
+      "date": "2026-07-22",
+      "title": "Release 1.0.6",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "El panel del mapa ahora muestra el nombre y las coordenadas en una sola linea, centrado, y ya no se ve tan macizo."
+        },
+        {
+          "category": "interfaz",
+          "text": "MU Helper: los botones Guardar y Restablecer vuelven a usar la placa roja y negra en vez del rectangulo gris plano."
+        }
+      ],
+      "download_bytes": 4792925,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.5",
       "date": "2026-07-22",
       "title": "Release 1.0.5",
