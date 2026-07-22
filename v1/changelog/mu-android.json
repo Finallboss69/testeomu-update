@@ -3,6 +3,79 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.1",
+      "date": "2026-07-22",
+      "title": "Release 1.0.1",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "Baúl y Tienda rediseñados para celular: marco nuevo, grilla más grande y botones apilados."
+        },
+        {
+          "category": "interfaz",
+          "text": "X-Shop: cada ítem muestra ícono, nombre y precio adentro del botón."
+        },
+        {
+          "category": "interfaz",
+          "text": "Pantalla de personajes: botones CREATE / MENU / CONNECT / DELETE nuevos."
+        },
+        {
+          "category": "interfaz",
+          "text": "Avisos y confirmaciones (sí/no, aceptar) con el diseño nuevo."
+        },
+        {
+          "category": "interfaz",
+          "text": "Panel de menú, botones y marcos de toda la interfaz unificados al set negro y rojo."
+        },
+        {
+          "category": "interfaz",
+          "text": "Nombre del mapa completo arriba a la derecha, con las coordenadas debajo."
+        },
+        {
+          "category": "interfaz",
+          "text": "Inventario: casillas grises con separación fina, más legibles."
+        },
+        {
+          "category": "interfaz",
+          "text": "MU Helper: franja de ayuda que explica qué hace cada opción al tocarla."
+        },
+        {
+          "category": "correccion",
+          "text": "X-Shop: ahora carga el catálogo. Antes abría vacío y el botón Comprar no hacía nada."
+        },
+        {
+          "category": "correccion",
+          "text": "Panel de compra y confirmaciones del X-Shop: entran completos en pantalla."
+        },
+        {
+          "category": "correccion",
+          "text": "Diálogo de NPC y quests: el panel entraba cortado y las opciones quedaban afuera."
+        },
+        {
+          "category": "correccion",
+          "text": "Pantalla de personajes: los botones no respondían al toque."
+        },
+        {
+          "category": "correccion",
+          "text": "HUD: el panel de mascotas se puede mover y minimizar."
+        },
+        {
+          "category": "correccion",
+          "text": "HUD: tocar config, helper, inventario o candado ya no dispara el joystick."
+        },
+        {
+          "category": "correccion",
+          "text": "Nombre del mapa: se cortaba si era largo."
+        },
+        {
+          "category": "correccion",
+          "text": "Monturas: se veían demasiado chicas en su casilla."
+        }
+      ],
+      "download_bytes": 8574742,
+      "files_changed": 20
+    },
+    {
       "version": "1.0.0",
       "date": "2026-07-21",
       "title": "Release 1.0.0",
