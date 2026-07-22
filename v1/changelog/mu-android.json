@@ -3,6 +3,23 @@
   "channel": "mu-android",
   "releases": [
     {
+      "version": "1.0.3",
+      "date": "2026-07-22",
+      "title": "Release 1.0.3",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "Ventana de catapulta (asedio) con el marco nuevo negro y rojo."
+        },
+        {
+          "category": "correccion",
+          "text": "Ventana de catapulta: entraba cortada en pantalla."
+        }
+      ],
+      "download_bytes": 4790881,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.2",
       "date": "2026-07-22",
       "title": "Release 1.0.2",
